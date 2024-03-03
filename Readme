@@ -1,0 +1,10 @@
+The framework of the proposed MSFR-GCN for EEG
+emotion recognition is shown in Fig. 2. In MSFR-GCN, the
+feature-adaptive branch is used to learn dynamic brain connections. The MSFR branch examines the impact of assigning
+varying weights to channels, frequency bands, and samples on
+emotion detection and concatenates the scaled EEG features to
+produce the final node features (V). And those two branches
+provide graph input to GCN, and after two layers, we sum the
+graph via feature-pool to create the final EEG graph representation in MSFR-GCN. The final EEG graph representation is
+then connected to a fully connected layer, and the predicted
+labels are obtained through a softmax layer

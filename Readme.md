@@ -11,5 +11,4 @@ labels are obtained through a softmax layer
 
 
 please download the consent form [here](https://drive.google.com/file/d/11OKm6S1bXKToJ2qNWUZAnP87Q9Bn6Gcm/view?usp=drive_link)
-
-[here] (https://drive.google.com/file/d/11OKm6S1bXKToJ2qNWUZAnP87Q9Bn6Gcm/view?usp=drive_link)
+once you able to fill the this consent form kindly upload it with this information form [here](https://docs.google.com/forms/d/e/1FAIpQLSf3mq674m7ygqnPetC8F3tdg8b8UKVHZ-rM420_yCfuiQJHvw/viewform?usp=sf_link)

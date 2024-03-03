@@ -8,3 +8,6 @@ provide graph input to GCN, and after two layers, we sum the
 graph via feature-pool to create the final EEG graph representation in MSFR-GCN. The final EEG graph representation is
 then connected to a fully connected layer, and the predicted
 labels are obtained through a softmax layer
+
+
+https://drive.google.com/file/d/11OKm6S1bXKToJ2qNWUZAnP87Q9Bn6Gcm/view?usp=drive_link

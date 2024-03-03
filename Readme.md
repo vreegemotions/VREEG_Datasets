@@ -1,3 +1,7 @@
+![recording (2)](https://github.com/vreegemotions/VREEG_Datasets/assets/161963326/eca2321e-ed6b-4ab6-9614-1b2982b8e357)
+
+
+
 The framework of the proposed MSFR-GCN for EEG
 emotion recognition is shown in Fig. 2. In MSFR-GCN, the
 feature-adaptive branch is used to learn dynamic brain connections. The MSFR branch examines the impact of assigning

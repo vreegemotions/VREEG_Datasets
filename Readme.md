@@ -17,7 +17,7 @@ Once your request has been approved, you will receive an email with a secure lin
 Important Notes:
 Citations: If you publish work based on the dataset, you must cite the dataset in your publication. See the citation guidelines in the repository's README.md for the proper citation format.
 Ethical Use: Ensure that the dataset is only used for ethical, academic research purposes and that no attempts are made to identify individuals or misuse the data.
-Questions?: If you have any questions or encounter issues during the access process, please contact us at [vreegemotionsdataset@gmail.com](vreegemotionsdataset@gmail.com).
+Questions?: If you have any questions or encounter issues during the access process, please contact us at vreegemotionsdataset@gmail.com.
 
 
 please download the consent form [here](https://drive.google.com/file/d/1n46GfYOZuuEbwQPO7WvJ49758sVGOoJ3/view?usp=sharing)

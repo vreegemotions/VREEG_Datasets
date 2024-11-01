@@ -32,7 +32,7 @@ Questions?: If you have any questions or encounter issues during the access proc
 
 
 please download the consent form "[Download consent form](https://drive.google.com/file/d/1zZajJwh5EZ5c1q3cctvWwiggyVQ0Lsa6/view?usp=sharing)"
-once you are able to fill out this consent form, kindly upload it with this information form "[Upload the consent form](https://docs.google.com/forms/d/e/1FAIpQLSf3mq674m7ygqnPetC8F3tdg8b8UKVHZ-rM420_yCfuiQJHvw/viewform?usp=sharing)"
+once you are able to fill out this consent form, kindly upload it with this information form "[Upload consent form](https://docs.google.com/forms/d/e/1FAIpQLSf3mq674m7ygqnPetC8F3tdg8b8UKVHZ-rM420_yCfuiQJHvw/viewform?usp=sharing)"
 
 
 

@@ -17,9 +17,10 @@ Submit the Form:
 Once you have completed and signed the form:
 
 Option 1: Scan and email the signed form to vreegemotionsdataset@gmail.com or upload the form in the given link
-Verification Process:
-Note: Use only your institute email while submitting the "Access Request Form"; otherwise, with another email, your request will not be processed.
-After receiving your request, we will review it to ensure compliance with our terms and conditions.
+Verification Process: After receiving your request, we will review it to ensure compliance with our terms and conditions.
+
+
+Note: Use only your institute email when submitting the "Access Request Form"; otherwise, your request will not be processed with another email.
 
 Receive Download Link:
 Once your request has been approved, you will receive an email with a secure link to download the dataset. Please note that this link is for your use only and must not be shared with others.

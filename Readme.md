@@ -26,6 +26,9 @@ Once your request has been approved, you will receive an email with a secure lin
 Important Notes:
 Citations: If you publish work based on the dataset, you must cite the dataset in your publication. See the citation guidelines in the repository's README.md for the proper citation format.
 
+Babu, N., Satija, U., Mathew, J., & Vinod, A.P. (2025). Emotion recognition in virtual and non-virtual environments using EEG signals: Dataset and evaluation. Biomedical Signal Processing and Control, 106, 107674. https://doi.org/10.1016/j.bspc.2025.107674
+
+
 Ethical Use: Ensure that the dataset is only used for ethical, academic research purposes and that no attempts are made to identify individuals or misuse the data.
 
 Questions?: If you have any questions or encounter issues during the access process, please contact us at vreegemotionsdataset@gmail.com.
